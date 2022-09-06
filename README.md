@@ -43,4 +43,4 @@ THEN I exit the application, and the HTML is generated
 
 
 ## Walkthrough
-![Walkthrough](./assets/rosterwalkthrough.gif)
+![Walkthrough](/assets/rosterwalkthrough.gif)
