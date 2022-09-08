@@ -1,7 +1,7 @@
 {
-    "name": "CoolEmployees",
+    "name": "roster-foster",
     "version": "1.0.0",
-    "description": "OOP",
+    "description": "",
     "main": "index.js",
     "directories": {
       "lib": "lib",
@@ -12,11 +12,11 @@
     },
     "repository": {
       "type": "",
-      "url": "git+https://github.com/JamesLJenks/10_OOP-Team-Profile-Generator.git"
+      "url": "git+https://github.com/west-korea/roster-foster.git"
     },
     "author": "",
     "license": "ISC",
-    "homepage": "https://github.com/JamesLJenks/10_OOP-Team-Profile-Generator",
+    "homepage": "https://github.com/west-korea/roster-foster",
     "dependencies": {
       "inquirer": "^6.3.1"
     },
